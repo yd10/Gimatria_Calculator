@@ -1,0 +1,75 @@
+D:\Pragramming\C#\Gimatria\bin\Debug\netcoreapp3.1\Gimatria.exe
+D:\Pragramming\C#\Gimatria\bin\Debug\netcoreapp3.1\Gimatria.deps.json
+D:\Pragramming\C#\Gimatria\bin\Debug\netcoreapp3.1\Gimatria.runtimeconfig.json
+D:\Pragramming\C#\Gimatria\bin\Debug\netcoreapp3.1\Gimatria.runtimeconfig.dev.json
+D:\Pragramming\C#\Gimatria\bin\Debug\netcoreapp3.1\Gimatria.dll
+D:\Pragramming\C#\Gimatria\bin\Debug\netcoreapp3.1\Gimatria.pdb
+D:\Pragramming\C#\Gimatria\obj\Debug\netcoreapp3.1\Gimatria.csprojAssemblyReference.cache
+D:\Pragramming\C#\Gimatria\obj\Debug\netcoreapp3.1\Gimatria.csproj.GenerateResource.cache
+D:\Pragramming\C#\Gimatria\obj\Debug\netcoreapp3.1\Gimatria.AssemblyInfoInputs.cache
+D:\Pragramming\C#\Gimatria\obj\Debug\netcoreapp3.1\Gimatria.AssemblyInfo.cs
+D:\Pragramming\C#\Gimatria\obj\Debug\netcoreapp3.1\Gimatria.csproj.CoreCompileInputs.cache
+D:\Pragramming\C#\Gimatria\obj\Debug\netcoreapp3.1\Gimatria.dll
+D:\Pragramming\C#\Gimatria\obj\Debug\netcoreapp3.1\Gimatria.pdb
+D:\Pragramming\C#\Gimatria\obj\Debug\netcoreapp3.1\Gimatria.genruntimeconfig.cache
+D:\Pragramming\C#\Gimatria\obj\Debug\netcoreapp3.1\Gimatria.frmGimatria.resources
+D:\Pragramming\C#\Gimatria - 2\bin\Debug\netcoreapp3.1\Gimatria.exe
+D:\Pragramming\C#\Gimatria - 2\bin\Debug\netcoreapp3.1\Gimatria.deps.json
+D:\Pragramming\C#\Gimatria - 2\bin\Debug\netcoreapp3.1\Gimatria.runtimeconfig.json
+D:\Pragramming\C#\Gimatria - 2\bin\Debug\netcoreapp3.1\Gimatria.runtimeconfig.dev.json
+D:\Pragramming\C#\Gimatria - 2\bin\Debug\netcoreapp3.1\Gimatria.dll
+D:\Pragramming\C#\Gimatria - 2\bin\Debug\netcoreapp3.1\Gimatria.pdb
+D:\Pragramming\C#\Gimatria - 2\obj\Debug\netcoreapp3.1\Gimatria.csprojAssemblyReference.cache
+D:\Pragramming\C#\Gimatria - 2\obj\Debug\netcoreapp3.1\Gimatria.frmGimatria.resources
+D:\Pragramming\C#\Gimatria - 2\obj\Debug\netcoreapp3.1\Gimatria.csproj.GenerateResource.cache
+D:\Pragramming\C#\Gimatria - 2\obj\Debug\netcoreapp3.1\Gimatria.AssemblyInfoInputs.cache
+D:\Pragramming\C#\Gimatria - 2\obj\Debug\netcoreapp3.1\Gimatria.AssemblyInfo.cs
+D:\Pragramming\C#\Gimatria - 2\obj\Debug\netcoreapp3.1\Gimatria.csproj.CoreCompileInputs.cache
+D:\Pragramming\C#\Gimatria - 2\obj\Debug\netcoreapp3.1\Gimatria.dll
+D:\Pragramming\C#\Gimatria - 2\obj\Debug\netcoreapp3.1\Gimatria.pdb
+D:\Pragramming\C#\Gimatria - 2\obj\Debug\netcoreapp3.1\Gimatria.genruntimeconfig.cache
+D:\Pragramming\C#\Gimatria-3-class\bin\Debug\netcoreapp3.1\Gimatria.exe
+D:\Pragramming\C#\Gimatria-3-class\bin\Debug\netcoreapp3.1\Gimatria.deps.json
+D:\Pragramming\C#\Gimatria-3-class\bin\Debug\netcoreapp3.1\Gimatria.runtimeconfig.json
+D:\Pragramming\C#\Gimatria-3-class\bin\Debug\netcoreapp3.1\Gimatria.runtimeconfig.dev.json
+D:\Pragramming\C#\Gimatria-3-class\bin\Debug\netcoreapp3.1\Gimatria.dll
+D:\Pragramming\C#\Gimatria-3-class\bin\Debug\netcoreapp3.1\Gimatria.pdb
+D:\Pragramming\C#\Gimatria-3-class\obj\Debug\netcoreapp3.1\Gimatria.csprojAssemblyReference.cache
+D:\Pragramming\C#\Gimatria-3-class\obj\Debug\netcoreapp3.1\Gimatria.frmGimatria.resources
+D:\Pragramming\C#\Gimatria-3-class\obj\Debug\netcoreapp3.1\Gimatria.csproj.GenerateResource.cache
+D:\Pragramming\C#\Gimatria-3-class\obj\Debug\netcoreapp3.1\Gimatria.AssemblyInfoInputs.cache
+D:\Pragramming\C#\Gimatria-3-class\obj\Debug\netcoreapp3.1\Gimatria.AssemblyInfo.cs
+D:\Pragramming\C#\Gimatria-3-class\obj\Debug\netcoreapp3.1\Gimatria.csproj.CoreCompileInputs.cache
+D:\Pragramming\C#\Gimatria-3-class\obj\Debug\netcoreapp3.1\Gimatria.dll
+D:\Pragramming\C#\Gimatria-3-class\obj\Debug\netcoreapp3.1\Gimatria.pdb
+D:\Pragramming\C#\Gimatria-3-class\obj\Debug\netcoreapp3.1\Gimatria.genruntimeconfig.cache
+D:\Programming\C#\Gimatria-3-class\bin\Debug\netcoreapp3.1\Gimatria.exe
+D:\Programming\C#\Gimatria-3-class\bin\Debug\netcoreapp3.1\Gimatria.deps.json
+D:\Programming\C#\Gimatria-3-class\bin\Debug\netcoreapp3.1\Gimatria.runtimeconfig.json
+D:\Programming\C#\Gimatria-3-class\bin\Debug\netcoreapp3.1\Gimatria.runtimeconfig.dev.json
+D:\Programming\C#\Gimatria-3-class\bin\Debug\netcoreapp3.1\Gimatria.dll
+D:\Programming\C#\Gimatria-3-class\bin\Debug\netcoreapp3.1\Gimatria.pdb
+D:\Programming\C#\Gimatria-3-class\obj\Debug\netcoreapp3.1\Gimatria.csprojAssemblyReference.cache
+D:\Programming\C#\Gimatria-3-class\obj\Debug\netcoreapp3.1\Gimatria.frmGimatria.resources
+D:\Programming\C#\Gimatria-3-class\obj\Debug\netcoreapp3.1\Gimatria.csproj.GenerateResource.cache
+D:\Programming\C#\Gimatria-3-class\obj\Debug\netcoreapp3.1\Gimatria.AssemblyInfoInputs.cache
+D:\Programming\C#\Gimatria-3-class\obj\Debug\netcoreapp3.1\Gimatria.AssemblyInfo.cs
+D:\Programming\C#\Gimatria-3-class\obj\Debug\netcoreapp3.1\Gimatria.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Gimatria-3-class\obj\Debug\netcoreapp3.1\Gimatria.dll
+D:\Programming\C#\Gimatria-3-class\obj\Debug\netcoreapp3.1\Gimatria.pdb
+D:\Programming\C#\Gimatria-3-class\obj\Debug\netcoreapp3.1\Gimatria.genruntimeconfig.cache
+D:\Programming\C#\Gimatria-5-class\obj\Debug\netcoreapp3.1\Gimatria.csprojAssemblyReference.cache
+D:\Programming\C#\Gimatria-5-class\obj\Debug\netcoreapp3.1\Gimatria.frmGimatria.resources
+D:\Programming\C#\Gimatria-5-class\obj\Debug\netcoreapp3.1\Gimatria.csproj.GenerateResource.cache
+D:\Programming\C#\Gimatria-5-class\obj\Debug\netcoreapp3.1\Gimatria.AssemblyInfoInputs.cache
+D:\Programming\C#\Gimatria-5-class\obj\Debug\netcoreapp3.1\Gimatria.AssemblyInfo.cs
+D:\Programming\C#\Gimatria-5-class\obj\Debug\netcoreapp3.1\Gimatria.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Gimatria-5-class\obj\Debug\netcoreapp3.1\Gimatria.dll
+D:\Programming\C#\Gimatria-5-class\obj\Debug\netcoreapp3.1\Gimatria.pdb
+D:\Programming\C#\Gimatria-5-class\bin\Debug\netcoreapp3.1\Gimatria.exe
+D:\Programming\C#\Gimatria-5-class\bin\Debug\netcoreapp3.1\Gimatria.deps.json
+D:\Programming\C#\Gimatria-5-class\bin\Debug\netcoreapp3.1\Gimatria.runtimeconfig.json
+D:\Programming\C#\Gimatria-5-class\bin\Debug\netcoreapp3.1\Gimatria.runtimeconfig.dev.json
+D:\Programming\C#\Gimatria-5-class\bin\Debug\netcoreapp3.1\Gimatria.dll
+D:\Programming\C#\Gimatria-5-class\bin\Debug\netcoreapp3.1\Gimatria.pdb
+D:\Programming\C#\Gimatria-5-class\obj\Debug\netcoreapp3.1\Gimatria.genruntimeconfig.cache
